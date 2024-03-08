@@ -1,0 +1,1 @@
+Among the relevant assignments, projects related to overlapping, image processing (point cloud, mesh model, camera calibration, estimation, bundle block adjustment and DSM DTM generation), and obtaining sentinel satellite images were made.
